@@ -11,7 +11,10 @@ Logistic regression:
    macro avg       0.53      0.96      0.55     56962
 weighted avg       1.00      0.97      0.99     56962
 
+
 ROC-AUC score: 0.9887
+
+
 ![logostic_reg_fraud](https://github.com/user-attachments/assets/71ff824c-c9c6-439c-825a-62518cd3052f)
 
 
@@ -29,6 +32,8 @@ Random Forest:
    macro avg       0.95      0.92      0.93     56962
 weighted avg       1.00      1.00      1.00     56962
 
+
 ROC-AUC score: 0.9819
+
 
 ![random_forest_fraud](https://github.com/user-attachments/assets/8c457245-92c5-424e-bf7d-37c1f3be9be2)
