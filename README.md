@@ -31,5 +31,4 @@ weighted avg       1.00      1.00      1.00     56962
 
 ROC-AUC score: 0.9819
 
-the xgboosting model evaluation is left as an exercise 
 ![random_forest_fraud](https://github.com/user-attachments/assets/8c457245-92c5-424e-bf7d-37c1f3be9be2)
