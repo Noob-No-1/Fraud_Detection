@@ -1,6 +1,7 @@
-Performance of different modelsL:
+Performance of different models:
 
 Logistic regression: 
+
              precision    recall  f1-score   support
 
            0       1.00      0.97      0.99     56864
@@ -11,8 +12,14 @@ Logistic regression:
 weighted avg       1.00      0.97      0.99     56962
 
 ROC-AUC score: 0.9887
+![logostic_reg_fraud](https://github.com/user-attachments/assets/71ff824c-c9c6-439c-825a-62518cd3052f)
+
+
+
+
 
 Random Forest:
+
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     56864
@@ -25,3 +32,4 @@ weighted avg       1.00      1.00      1.00     56962
 ROC-AUC score: 0.9819
 
 the xgboosting model evaluation is left as an exercise 
+![random_forest_fraud](https://github.com/user-attachments/assets/8c457245-92c5-424e-bf7d-37c1f3be9be2)
